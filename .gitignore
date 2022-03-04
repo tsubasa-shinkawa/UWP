@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/App1.Core/bin
+/App1.Core/obj
+/UWPMediaPlayer/bin
+/UWPMediaPlayer/obj
+/UWPMediaPlayer2/bin
+/UWPMediaPlayer2/obj
